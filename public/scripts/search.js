@@ -151,10 +151,6 @@ var sites = [
         link: 'Application Stage Customer Management'
     },
     {
-        title: 'AWS',
-        link: 'Amazon Web Services'
-    },
-    {
         title: 'BA',
         link: 'Business Analyst'
     },
@@ -213,10 +209,6 @@ var sites = [
     {
         title: 'CCL',
         link: 'Capital One Card Lab'
-    },
-    {
-        title: 'CCM',
-        link: 'Customer Communication Management'
     },
     {
         title: 'CDI',
@@ -495,10 +487,6 @@ var sites = [
         link: 'Failure Mode and Effects Analysis'
     },
     {
-        title: 'FPS',
-        link: 'Fulcrum Provisioning System'
-    },
-    {
         title: 'FMU',
         link: 'File Upload & Mail Trigger Utility (used by Epsilon)'
     },
@@ -513,10 +501,6 @@ var sites = [
     {
         title: 'GD',
         link: 'Graphic Designer'
-    },
-    {
-        title: 'GDPR',
-        link: 'General Data Protection Regulation'
     },
     {
         title: 'GLBA',
@@ -577,18 +561,6 @@ var sites = [
     {
         title: 'ICORE',
         link: 'Integrated Channel Offer and Response Engine - A Web-based system that enables real-time decisioning for our credit card applications. An acquisitions Internet channel.'
-    },
-    {
-        title: 'IBS',
-        link: 'Information Based Strategy'
-    },
-    {
-        title: 'IaaS',
-        link: 'Infrastructure as a Service'
-    },
-    {
-        title: 'IDE',
-        link: 'Integrated Developer Environment'
     },
     {
         title: 'IFM',
@@ -783,10 +755,6 @@ var sites = [
         link: 'Flow for Email Drive to Web Process'
     },
     {
-        title: 'PaaS',
-        link: 'Platform as a Service'
-    },
-    {
         title: 'pBAD',
         link: 'possibly a server or table name'
     },
@@ -903,10 +871,6 @@ var sites = [
         link: 'Syntactically Awesome Style Sheets'
     },
     {
-        title: 'SaaS',
-        link: 'Software as a Service'
-    },
-    {
         title: 'SB',
         link: 'Small Business'
     },
@@ -939,10 +903,6 @@ var sites = [
         link: 'Search Engine Module or Strategy Exec. Module'
     },
     {
-        title: 'SE',
-        link: 'Software Engineer'
-    },
-    {
         title: 'SEO',
         link: 'Search Engine Optimization'
     },
@@ -953,10 +913,6 @@ var sites = [
     {
         title: 'SIT',
         link: 'System Intergration Test'
-    },
-    {
-        title: 'SLQ2CQ',
-        link: 'Sigma Lean Quality to Cimplicity as Quality'
     },
     {
         title: 'Skittle',
@@ -973,10 +929,6 @@ var sites = [
     {
         title: 'SOL',
         link: 'Solicitation'
-    },
-    {
-        title: 'SOC',
-        link: 'Security Opperations Centre'
     },
     {
         title: 'SOR',
@@ -1061,14 +1013,6 @@ var sites = [
     {
         title: 'UM',
         link: 'Upmarket'
-    },
-    {
-        title: 'UX',
-        link: 'User Experience'
-    },
-    {
-        title: 'UI',
-        link: 'User Interface'
     },
     {
         title: 'VC',
